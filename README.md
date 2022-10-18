@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi there!
+
+I am Mohit, a Software Engineer from India.
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitcharkha&show_icons=true&theme=prussian" alt="mohitcharkha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mohitcharkha&theme=prussian&date_format=M%20j%5B%2C%20Y%5D" alt="mohitcharkha" /></p>
+
+
+[![@mohitcharkha's Holopin board](https://holopin.me/mohitcharkha)](https://holopin.io/@mohitcharkha)
 
 <!--
 **mohitcharkha/mohitcharkha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
