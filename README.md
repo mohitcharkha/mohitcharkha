@@ -1,6 +1,6 @@
 Hi there!
 
-I am Mohit, a Software Engineer from India.
+I am Mohit, a Senior Software Engineer from India.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitcharkha&show_icons=true&theme=prussian" alt="mohitcharkha" /></p>
 
